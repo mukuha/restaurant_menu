@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_drawer_list_item"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_centerVertical="true"
+    android:layout_marginStart="15dp"
+    android:padding="25dp"
+    android:text="A menu"
+    android:textSize="20sp"
+    android:textStyle="bold"
+    tools:ignore="HardcodedText">
+</TextView>

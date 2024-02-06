@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Restaurant</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello detail fragment</string>
+    <string name="main_activity_tittle">Click an Item to See Details</string>
+    <string name="action_settings">Settings</string>
+    <string name="pref_display_grid">pref_display_grid</string>
+    <string name="display_in_grid">Display in grid</string>
+    <string name="display_in_grid_summary">Display menu items in a multi-column grid</string>
+    <string name="settings_screen_title">Settings</string>
+    <string name="detail_activity_title">Menu</string>
+    <string-array name="categories">
+        <item>Menu</item>
+        <item>See all</item>
+        <item>Desserts</item>
+        <item>Drinks</item>
+        <item>Entrees</item>
+        <item>Salads</item>
+        <item>Starters</item>
+    </string-array>
+
+
+</resources>
